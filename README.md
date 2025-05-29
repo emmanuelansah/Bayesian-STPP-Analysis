@@ -1,6 +1,6 @@
 # Bayesian Analysis of Spatio-Temporal Point Processes
 
-This repository contains all the code and datasets used in the thesis "Bayesian Analysis of Spatio-Temporal Point Processes". The work focuses on implementing and comparing three models — the Log-Gaussian Cox Process (LGCP), the Hawkes Process, and the Cox-Hawkes Process — using real-world datasets from the COVID-19 outbreak in London and the Ebola epidemic in Sierra Leone.
+This repository contains all the code and datasets used in the thesis "Bayesian Analysis of Spatio-Temporal Point Processes". The work focuses on implementing and comparing three models: the Log-Gaussian Cox Process (LGCP), the Hawkes Process, and the Cox-Hawkes Process, using real-world datasets from the COVID-19 outbreak in London and the Ebola epidemic in Sierra Leone.
 
 ## Repository Contents
 
