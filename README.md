@@ -7,7 +7,6 @@ This repository contains all the code and datasets used in the thesis "Bayesian 
 - `final_london_covid_bstpp_analysis.py`: Full modeling pipeline using the `bstpp` package
 - `london_covid_descriptive_analysis.py`: Code for descriptive spatial-temporal analysis and visualization
 - `data/`: Contains preprocessed event and covariate datasets for both COVID-19 and Ebola case studies
-- `figures/`: Exported plots used throughout the thesis (intensity maps, posteriors, trace plots, etc.)
 - `notebooks/`: (Optional) Jupyter Notebooks for model exploration and result interpretation
 
 ## 🧠 Models Implemented
